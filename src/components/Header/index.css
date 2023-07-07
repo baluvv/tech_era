@@ -1,0 +1,15 @@
+.header-part {
+  height: 10vh;
+  background-color: #f1f5f9;
+  padding-top: 10px;
+  padding-left: 40px;
+  padding-bottom: 5px;
+}
+
+.website-logo {
+  height: 40px;
+  width: 120px;
+}
+.home-link {
+  text-decoration: none;
+}
